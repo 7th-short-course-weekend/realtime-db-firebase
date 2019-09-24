@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863486749516",
+    "firebase_url": "https://dayapp-d4264.firebaseio.com",
+    "project_id": "dayapp-d4264",
+    "storage_bucket": "dayapp-d4264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863486749516:android:9098450e8b6605addc7de9",
+        "android_client_info": {
+          "package_name": "com.rathana.realtime_database_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863486749516-j8j3dshbdpjjti4477ts5eje27gf54lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rathana.realtime_database_demo",
+            "certificate_hash": "386f4c67f2298564166f442a196845586c9804a8"
+          }
+        },
+        {
+          "client_id": "863486749516-q064hpkoq8rqcvjbe4ougm3q8e253ih2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVHDIpEBPj7UbYbvzVMiANbmPgMQ4aWa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863486749516-q064hpkoq8rqcvjbe4ougm3q8e253ih2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
